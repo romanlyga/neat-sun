@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'I want to change text here and see how '
+    title: I want to change text here and see how will it looks like
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
